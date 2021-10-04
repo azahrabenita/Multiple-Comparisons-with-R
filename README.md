@@ -1,5 +1,5 @@
 # Multiple-Comparisons-with-R
-This is my first repository, it contains an R-code of my final project in class of Experimental Design.
+This repository contains an R-code of my final project in class of Experimental Design.
 In this project i was working with my team to diagnose an appropiate statistical model for Randomized Complete Block Design (RCBD) with 3 factors. 
 
 Case obtained from Montgomery's book:
