@@ -3,7 +3,7 @@
 
 
 ### Kode R untuk model Rancangan Acak Kelompok Lengkap (RACL) atau Randomized Complete Block Design (RCBD)
-### Kode ini meliputi 3 tahapan analisis
+### Kode ini meliputi 3 tahapan analisis, yaitu:
 ### 1. memodelkan RACL dengan ANOVA
 ### 2. komparasi setiap pasangan mean treatment
 ### 3. diagnosis model
